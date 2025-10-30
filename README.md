@@ -1,5 +1,6 @@
-# # InovaView — Plataforma criativa para exibir e compartilhar projetos visuais
+# # InovaView 
 
+Plataforma criativa para exibir e compartilhar projetos visuais
 ## Resumo
 InovaView é um projeto acadêmico desenvolvido em PHP (compatível com PHP 7.4+) para demonstrar
 uma plataforma completa de exposição de trabalhos visuais. Este repositório inclui uma
